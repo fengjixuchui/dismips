@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "dismips", "dismips\dismips.vbproj", "{90613E23-03EE-4EB5-BF50-D1F1633AACAE}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dismips_lib", "dismips_lib\dismips_lib.vcxproj", "{416799ED-E4C4-43D1-9CE2-474C862D0E8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Debug|x86 = Debug|x86
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90613E23-03EE-4EB5-BF50-D1F1633AACAE}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{90613E23-03EE-4EB5-BF50-D1F1633AACAE}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{90613E23-03EE-4EB5-BF50-D1F1633AACAE}.Debug|Win32.ActiveCfg = Debug|x86
+		{90613E23-03EE-4EB5-BF50-D1F1633AACAE}.Debug|x86.ActiveCfg = Debug|x86
+		{90613E23-03EE-4EB5-BF50-D1F1633AACAE}.Debug|x86.Build.0 = Debug|x86
+		{90613E23-03EE-4EB5-BF50-D1F1633AACAE}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{90613E23-03EE-4EB5-BF50-D1F1633AACAE}.Release|Mixed Platforms.Build.0 = Release|x86
+		{90613E23-03EE-4EB5-BF50-D1F1633AACAE}.Release|Win32.ActiveCfg = Release|x86
+		{90613E23-03EE-4EB5-BF50-D1F1633AACAE}.Release|x86.ActiveCfg = Release|x86
+		{90613E23-03EE-4EB5-BF50-D1F1633AACAE}.Release|x86.Build.0 = Release|x86
+		{416799ED-E4C4-43D1-9CE2-474C862D0E8C}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{416799ED-E4C4-43D1-9CE2-474C862D0E8C}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{416799ED-E4C4-43D1-9CE2-474C862D0E8C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{416799ED-E4C4-43D1-9CE2-474C862D0E8C}.Debug|Win32.Build.0 = Debug|Win32
+		{416799ED-E4C4-43D1-9CE2-474C862D0E8C}.Debug|x86.ActiveCfg = Debug|Win32
+		{416799ED-E4C4-43D1-9CE2-474C862D0E8C}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{416799ED-E4C4-43D1-9CE2-474C862D0E8C}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{416799ED-E4C4-43D1-9CE2-474C862D0E8C}.Release|Win32.ActiveCfg = Release|Win32
+		{416799ED-E4C4-43D1-9CE2-474C862D0E8C}.Release|Win32.Build.0 = Release|Win32
+		{416799ED-E4C4-43D1-9CE2-474C862D0E8C}.Release|x86.ActiveCfg = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
