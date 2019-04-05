@@ -58,6 +58,7 @@
       <BufferSecurityCheck>false</BufferSecurityCheck>
       <CallingConvention>StdCall</CallingConvention>
       <CompileAs>CompileAsC</CompileAs>
+      <PreprocessorDefinitions>_msvc;_WINDLL;%(PreprocessorDefinitions)</PreprocessorDefinitions>
     </ClCompile>
     <Link>
       <GenerateDebugInformation>true</GenerateDebugInformation>
@@ -98,6 +99,7 @@
     <ClCompile Include="dismips.c" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="mips_arch.h" />
     <ClInclude Include="tpdef.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

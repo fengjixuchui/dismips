@@ -23,5 +23,8 @@
     <ClInclude Include="tpdef.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="mips_arch.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
